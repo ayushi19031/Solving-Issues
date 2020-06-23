@@ -1,0 +1,7 @@
+#Python Virtual Environment
+
+Was facing issue in python virtual environment in windows 10  
+
+
+Solved it by this link: 
+https://stackoverflow.com/questions/45567986/python-3-6-virtualenv-is-not-recognized-as-an-internal-or-external-command?rq=1
